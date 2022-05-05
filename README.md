@@ -1,6 +1,6 @@
 # Weather App
 
-by Nicholas Daut and Tyler Wallace
+by Nicholas Daut
 
 ## API info
 
