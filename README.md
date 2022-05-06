@@ -32,6 +32,12 @@ E2E Testing:
   - Jest
   - Cypress
 
+
+## Opening Gitpod
+
+To open gitpod and run the web app you need to type in gitpod.io/# at the very beginning of the URL. I.E. gitpod.io/#https://github.com/nickdaut/WeatherApp/edit/master/
+
+
 ## Run the App
 
 To run the Weather App, you'll need to run the following commands in the terminal:
